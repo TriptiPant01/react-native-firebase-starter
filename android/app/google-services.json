@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "250238049053",
+    "firebase_url": "https://eurokidsbiratnagar-35398.firebaseio.com",
+    "project_id": "eurokidsbiratnagar-35398",
+    "storage_bucket": "eurokidsbiratnagar-35398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250238049053:android:fc4290669b696268",
+        "android_client_info": {
+          "package_name": "com.outlines.kapp.parents.eurokidsbiratnagar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250238049053-d4e6328q6i42vjaiat7he8sd1qp1dff1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP30pVbnvfYjcSxbL4MMK_WggvXIfcE-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
