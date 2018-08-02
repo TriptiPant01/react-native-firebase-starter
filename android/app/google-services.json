@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "250238049053",
-    "firebase_url": "https://eurokidsbiratnagar-35398.firebaseio.com",
-    "project_id": "eurokidsbiratnagar-35398",
-    "storage_bucket": "eurokidsbiratnagar-35398.appspot.com"
+    "project_number": "387415852202",
+    "firebase_url": "https://testproject-fff3b.firebaseio.com",
+    "project_id": "testproject-fff3b",
+    "storage_bucket": "testproject-fff3b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:250238049053:android:fc4290669b696268",
+        "mobilesdk_app_id": "1:387415852202:android:8d4e41f333ad27fa",
         "android_client_info": {
-          "package_name": "com.outlines.kapp.parents.eurokidsbiratnagar"
+          "package_name": "com.invertase.rnfirebasestarter"
         }
       },
       "oauth_client": [
         {
-          "client_id": "250238049053-d4e6328q6i42vjaiat7he8sd1qp1dff1.apps.googleusercontent.com",
+          "client_id": "387415852202-lkljhpjcsqb1jv569brvbsut9p3k3auh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAP30pVbnvfYjcSxbL4MMK_WggvXIfcE-A"
+          "current_key": "AIzaSyDWLsJZVFEZKFmaHVnwMwWUP7OEOaZaqJk"
         }
       ],
       "services": {
